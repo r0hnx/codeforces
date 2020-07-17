@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\Rohan\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.linting.flake8Enabled": true
+}

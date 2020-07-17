@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - dubstep",
+            "request": "launch",
+            "mainClass": "dubstep",
+            "projectName": "codeforces_b8bce0e1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - youngPhysicist",
+            "request": "launch",
+            "mainClass": "youngPhysicist",
+            "projectName": "codeforces_b8bce0e1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - boyOrGirl",
+            "request": "launch",
+            "mainClass": "boyOrGirl",
+            "projectName": "codeforces_b8bce0e1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - beautifulMartix",
+            "request": "launch",
+            "mainClass": "beautifulMartix"
+        }
+    ]
+}
